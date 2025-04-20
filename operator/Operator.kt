@@ -82,7 +82,7 @@ fun main() {
 //    println(a)
 
 //    var a = 20
-//    println(a++)  // pre - increment the value get updated in the memory only
+//    println(a++)  // pre - increment the value gets updated in the memory only
 //    println(a) // now by this we gte the updated value
 //
 
