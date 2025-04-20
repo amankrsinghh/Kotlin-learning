@@ -72,7 +72,7 @@ fun main() {
 
 //    var a = 80
 //    var b = 40
-//    a%=b   // a = a+b
+//    a%=b // a = a+b
 //    println(a)
 
 
