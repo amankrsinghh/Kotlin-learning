@@ -26,10 +26,10 @@ fun main() {
 //    println(sub)
 
     ///Division
-//    val a = 12.0
-//    val b = 5.0
-//    val div: Float = (a/b).toFloat() // .toFloat() is used for type conversion
-//    println(div)
+    val a = 12.0
+    val b = 5.0
+    val div: Float = (a/b).toFloat() // .toFloat() is used for type conversion
+    println(div)
 
 
     ///Modulo
