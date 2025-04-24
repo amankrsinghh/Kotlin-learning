@@ -21,10 +21,10 @@ fun main() {
 
 
     //second method -> safe call
-//    println(name?.length)
+    println(name?.length)
 
 
     ///third method !!-> assassin operator
-    println(name!!.length)
+//    println(name!!.length)
 
 }
