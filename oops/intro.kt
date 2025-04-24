@@ -1,5 +1,5 @@
-package Oops
-class schedule {
+package oops
+class Schedule {
     fun task1(){
         println("wake up")
     }
@@ -17,7 +17,7 @@ class schedule {
     }
 }
 fun main() {
-    val person1 = schedule()
+    val person1 = Schedule()
     person1.task1()
     person1.task2()
     person1.task3()
