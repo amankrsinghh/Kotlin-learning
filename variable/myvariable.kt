@@ -38,7 +38,7 @@ fun main(){
      * Floating Types Data
      *
      * Float holds 32 bits
-     * Double holds 32 bits
+     * Double holds 64 bits
      */
 
     var num4: Float = 3.4028235E38F // max ,, min is 1.4E-45F
