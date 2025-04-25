@@ -27,4 +27,6 @@ fun main() {
     ///third method !!-> assassin operator
 //    println(name!!.length)
 
+    val x: String = readLine()!!
+    println(x.length)
 }

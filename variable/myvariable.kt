@@ -1,5 +1,7 @@
 package variable
 
+import oops.Encap
+
 fun main(){
     //    var name = "Captain" /// var is mutable
 //    name = "Aman kr singh"
@@ -40,14 +42,14 @@ fun main(){
      * Float holds 32 bits
      * Double holds 64 bits
      */
-
-    var num4: Float = 3.4028235E38F // max ,, min is 1.4E-45F
-    var num5: Double = 1.7976931348623157E308 //max ,, min is  4.9E-324
-
-
-    var grade: Char = 'A' // you put number also but only one number or letter
-    var wannaCoffee: Boolean = true
-    println("Aman got grade $grade in Android dev, Can i have a coffee? $wannaCoffee")
+//
+//    var num4: Float = 3.4028235E38F // max ,, min is 1.4E-45F
+//    var num5: Double = 1.7976931348623157E308 //max ,, min is  4.9E-324
+//
+//
+//    var grade: Char = 'A' // you put number also but only one number or letter
+//    var wannaCoffee: Boolean = true
+//    println("Aman got grade $grade in Android dev, Can i have a coffee? $wannaCoffee")
 
 
 }
