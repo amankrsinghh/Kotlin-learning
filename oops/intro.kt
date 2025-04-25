@@ -17,11 +17,15 @@ class Schedule {
     }
 }
 fun main() {
-    val person1 = Schedule()
+    val person1 = Schedule() ///object creation
     person1.task1()
     person1.task2()
     person1.task3()
     person1.task4()
     person1.task5()
-
+    println("====================================================================")
+    val person2 = Schedule()
+    person2.task1()
+    person2.task3()
+    person2.task4()
 }
