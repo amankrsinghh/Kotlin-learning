@@ -21,5 +21,5 @@ fun main() {
     obj1.mul()
     obj1.add()
 
-//    obj1.a = 23 ///this will give error because an is private
+///this will give error because a is private
 }
