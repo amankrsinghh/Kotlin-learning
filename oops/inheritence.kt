@@ -111,3 +111,4 @@ fun main() {
 //    var child3 = child3() /// hierarchical inheritance bcs child3 is son of child1
 //    child3.child3()
 }
+/// ill continue
