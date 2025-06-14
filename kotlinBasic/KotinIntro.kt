@@ -90,7 +90,6 @@ KDoc comment → Used for documentation (/** */)
 
 
 
-
 // 3. Variables, lateinite and Data Types
 
 /*
@@ -296,6 +295,9 @@ Range → .., downTo, until, step
 //        println("it is running")  // Executes because isUserLoggedIn is false
 //    }
 
+
+
+
 //}
 
 
@@ -329,17 +331,17 @@ Range → .., downTo, until, step
 
 // Assignment Operator
 
-fun main() {
-    var num = 10
+//fun main() {
+//    var num = 10
 
 //    num += 5   // num = num + 5 → 15
-    num -= 3   // num = num - 3
+//    num -= 3   // num = num - 3
 //    num *= 2   // num = num * 2
 //    num /= 4   // num = num / 4
 //    num %= 5   // num = num % 5
 
-    println(num)
-}
+//    println(num)
+//}
 
 
 

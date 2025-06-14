@@ -54,7 +54,7 @@ fun main() {
 //        else -> println("you age is not listed yet try this age - 18,22,50")
 //    }
 
-
-
-
+println("enter your age")
+    val age = readLine()!!.toInt()
+    print(age+5)
 }

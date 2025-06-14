@@ -1,32 +1,27 @@
 package nullpointer
 
+
+
+/// nul safety , safe call operator
+//fun main() {
+//    val name: String = null /// this will throw error because we can't store null this way
+    // we have to use '?' null safety
+//    val name: String? = null
+    //println(name.length) // this line will throw error because name is null so how it will print length
+    // so solution is for this
+    // we use null safe call operator
+//    println(name?.length)
+    // output = null
+//}
+
+/// Elvis operator '?:'
+//fun main() {
+//    val name: String? = "Aman"
+//    print(name?.length?:1)
+// / this line means if we get null then the right side of elvis operator will execute
+    /// or if we not get null then the left side of elvis operator will execute
+//}
+
 fun main() {
 
-    println("enter your name")
-//    var name:String = readLine()!! //-> initialization is a must
-
-    var name: String? // this can accept null ?-> elvis operator
-    //println(name.length)  //this wil give error because null value can be detect
-
-    name = "aman"
-//    name = null
- //first method to accept or handle null exception
-
-//    if (name == null){
-//        println(-1)
-//    }
-//    else{
-//        println(name.length)
-//    }
-
-
-    //second method -> safe call
-    println(name?.length)
-
-
-    ///third method !!-> assassin operator
-//    println(name!!.length)
-
-    val x: String = readLine()!!
-    println(x.length)
 }
